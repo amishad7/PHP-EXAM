@@ -8,7 +8,7 @@
 
     $config = new Config();
 
-   if($_SERVER['REQUEST_METHOD'] == 'DELTE')
+   if($_SERVER['REQUEST_METHOD'] == 'DELETE')
    {
 
     $input = file_get_contents("php://input");
