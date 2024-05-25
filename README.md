@@ -27,3 +27,21 @@
 ### Summary:
 
 This program exclusively utilizes SQL queries for database interaction and Postman for making HTTP requests to the API endpoints. It efficiently facilitates data fetching, insertion, deletion, and updating operations without HTML involvement, ensuring data integrity and security throughout the process.
+
+
+<img src="https://github.com/amishad7/PHP-EXAM/assets/118448879/b15601a0-0f90-4308-9a90-57cfa01b5362" width=500>
+
+<img src="https://github.com/amishad7/PHP-EXAM/assets/118448879/a3fa8826-940c-4b75-b396-f5313e278639" width=550>
+
+
+
+
+
+
+
+
+
+
+
+
+
